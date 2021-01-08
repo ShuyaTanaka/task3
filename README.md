@@ -32,4 +32,4 @@ T型プリント基板
 
 
 # ライセンス  
->[GNU General Public License v3.0](
+>[GNU General Public License v3.0](https://github.com/ShuyaTanaka/task3/blob/main/COPYING)
