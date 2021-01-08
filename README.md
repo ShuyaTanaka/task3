@@ -14,6 +14,7 @@ T型プリント基板
 ブレッドボード  
   
 # 実行順  
+[画像](IMG_6494)
 `vi led.py` に書かれたコードに対し、  
   
 `sudo python3 led.py` で実行可能となる。  
@@ -29,7 +30,8 @@ T型プリント基板
 
 
 # 参考文献  
-
+http://make.bcde.jp/raspberry-pi/gpio%e3%81%a7led%e3%81%ae%e7%82%b9%e6%bb%85python/  
+https://denkisekkeijin.com/raspberrypi/pi-led-for/  
 
 # ライセンス  
 >[GNU General Public License v3.0](https://github.com/ShuyaTanaka/task3/blob/main/COPYING)
