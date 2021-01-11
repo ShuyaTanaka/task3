@@ -26,7 +26,7 @@ T型プリント基板
                       終了  
 
 # デモ動画  
-
+https://youtu.be/p30-aarNZ9Y
 
 # 参考文献  
 http://make.bcde.jp/raspberry-pi/gpio%e3%81%a7led%e3%81%ae%e7%82%b9%e6%bb%85python/  
